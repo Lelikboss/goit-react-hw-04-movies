@@ -1,0 +1,1 @@
+{"version":3,"sources":["components/Home.js"],"names":["HomePage"],"mappings":"2JAGeA,UAHf,WACE,OAAO","file":"static/js/home-page.dd5526df.chunk.js","sourcesContent":["function HomePage() {\r\n  return <h1>Home</h1>;\r\n}\r\nexport default HomePage;\r\n"],"sourceRoot":""}
