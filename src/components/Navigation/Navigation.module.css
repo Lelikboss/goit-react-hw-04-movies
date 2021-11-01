@@ -1,0 +1,13 @@
+.nav {
+  padding-bottom: 30px;
+}
+.list {
+  background-color: #855c5c;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  list-style: none;
+}
+.item {
+  padding: 15px 15px;
+}
